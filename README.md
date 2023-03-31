@@ -10,3 +10,7 @@ These are scripts I created for selenium when I wanted to automate sock puppet a
 - Automatically login to LinkedIn and post a random motivational quote from motivational_quotes.txt (included)
 
 ![linkedin](https://user-images.githubusercontent.com/119519651/229231199-000c7ba4-c112-480f-9447-a8a1a108142b.gif)
+
+
+## twitter.py
+-Coming soon
